@@ -1,7 +1,7 @@
 {
     "accounts": {
         "assets": {
-            "test": "test"
+            "test": "tst"
             "addressCopied": "Адрес кошелька скопирован в буфер",
             "copyAddressHint": "Скопировать адрес кошелька",
             "copyAddressHint2": "Скопировать адрес",
